@@ -125,7 +125,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; padding-top: 10px;'>
-        <p>Developed with ❤️ by <b>Sumiya Ahasan</b></p>
+        <p>Developed with by <b>Sumiya Ahasan</b></p>
         <p style='font-size:13px;'>© 2025 Share Market ML App | Powered by Streamlit & XGBoost</p>
     </div>
     """,
